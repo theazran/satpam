@@ -6,4 +6,4 @@ database.json
 tmp
 credentials.json
 token.json
-config.js
+plugins
